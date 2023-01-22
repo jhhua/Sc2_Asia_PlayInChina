@@ -45,5 +45,4 @@ https://awa.run/gateway
 UA3小游戏云存档工具使用说明：[DreamProtocol SC2 DataSharing Plan工具教程]
 https://dreamprotocol.live/dpsc2ds-%E6%96%87%E6%A1%A3
 UA3小游戏云存档工具下载：
-https://github.com/jhhua/
- ```
+https://github.com/jhhua/Sc2_Asia_PlayInChina/tree/main/UA3%E5%9B%BD%E6%9C%8D%E8%BD%AC%E4%BA%9A%E6%9C%8D%E5%B7%A5%E5%85%B7 ```
