@@ -18,6 +18,9 @@
 ![image](https://github.com/jhhua/Sc2_Asia_PlayInChina/blob/main/image/213929810-38e81d45-6328-4355-9581-9d08e6cc6996.png?raw=true)
 ![image](https://github.com/jhhua/Sc2_Asia_PlayInChina/blob/main/image/213930017-a2abebc3-2ef0-4f73-a8fb-88559002bf4d.png?raw=true)
 
+## 关于数据互通：国内停服后，个人数据能否在国际服使用？
+答案：不支持，游戏数据不互通
+![image](https://github.com/jhhua/Sc2_Asia_PlayInChina/blob/main/image/213930556-a051cbd6-3dbf-40ef-96e2-9f6d2e224bbd.png?raw=true)
 
 
 
