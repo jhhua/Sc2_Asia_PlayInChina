@@ -5,6 +5,7 @@
 
 
 # 关于存档的保存
+为了避免国服突然性关服，请大家保存的SC2国服用户句柄下的文件，以为接下来换服做准备，目前部分玩家战略转移已经搬运到亚服（也就是台+韩+东南亚）
 ## 游戏大厅：手动保存（国服存档）
 ```
 如图，游戏大厅里，有各种各样的小游戏，它们的存档，一般和“句柄”绑定
@@ -24,9 +25,14 @@ C:\Users\电脑用户\Documents\StarCraft II\
 /Saves/：这个也是游戏录像，其中一部分是你打单机战役的时候，自动保存的一些
 ```
 ![图片](https://github.com/jhhua/Sc2_Asia_PlayInChina/blob/main/image/213926630-125ee7fe-4f30-49fd-9649-00942cd5788c.png)
+存档请提前自己备份路径：
+C:\Users\Administrator\Documents\StarCraft II\Accounts\一串号码\你的句柄\Banks\
 
 
+## 游戏大厅：UA3游戏（国服存档，转亚洲区）
 ```
-Double click,Run this program
-and use your account to log in
+UA3提供了一系列专区，以及保存存档的工具，请于24号停服之前，进行保存
+C:\Users\Administrator\Documents\StarCraft II\Accounts\一串号码\你的句柄\Banks\5-S2-1-11103029 内的UA3I
+参考UA3官网链接：
+
  ```
