@@ -3,6 +3,17 @@
 也就是说，24号0点开始，《星际争霸》之类的暴雪游戏，就要在国内停服了，而且还不退款，像《炉石》、《魔兽》这种游戏的玩家，亏得就大了，哈哈
 
 
+# 关于停服
+官方公告：https://sc2.blizzard.cn/articles/1001/80867?blzcmp=app
+![image](https://github.com/jhhua/Sc2_Asia_PlayInChina/blob/main/image/213929545-bb921cf4-d90e-4e07-afb1-f62d628d6870.png?raw=true)
+![image](https://github.com/jhhua/Sc2_Asia_PlayInChina/blob/main/image/213929542-4d31f175-5778-43a2-84b7-725c03f7be9c.png?raw=true)
+
+## 停服后是否支持单机？Or 局域网？
+答案：不支持
+![image](https://github.com/jhhua/Sc2_Asia_PlayInChina/blob/main/image/213929540-4685174b-85c4-4a9f-badf-f9b068516ca1.png?raw=true)
+
+
+
 
 # 关于存档的保存
 为了避免国服突然性关服，请大家保存的SC2国服用户句柄下的文件，以为接下来换服做准备，目前部分玩家战略转移已经搬运到亚服（也就是台+韩+东南亚）
