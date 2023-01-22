@@ -17,7 +17,10 @@
 它账号对应的国服句柄，就是5-S2-1-11XXXXX6，这个可以通过文件夹， 进行查询（如下目录）：
 ```
 ![image](https://github.com/jhhua/Sc2_Asia_PlayInChina/blob/main/image/213927240-59a1a0c4-ed5a-4ff3-8b4a-fa6074afc6c6.png?raw=true)
-
+```
+亚服的战网，也是一样的，在星际争霸2里面，也有一个“玩家ID”，与之对应的有“战网ID”，以及亚服“句柄”，如：3-S2-1-7685XX1
+只是格式不一样而已
+```
 
 C:\Users\电脑用户\Documents\StarCraft II\
  
