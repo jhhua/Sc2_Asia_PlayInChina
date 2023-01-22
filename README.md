@@ -12,7 +12,8 @@
 ```
 ![image](https://github.com/jhhua/Sc2_Asia_PlayInChina/blob/main/image/213925782-8f9ae737-50df-405e-ac0d-f90bc255b442.png?raw=true)
 ```
-下面的是“句柄”，如游戏玩家ID：泽拉图
+关于“句柄”：如星际争霸2游戏玩家ID：泽拉图
+它战网的ID是：国服战网玩家#9527
 它账号对应的国服句柄，就是5-S2-1-11XXXXX6，这个可以通过文件夹， 进行查询（如下目录）：
 ```
 C:\Users\电脑用户\Documents\StarCraft II\
