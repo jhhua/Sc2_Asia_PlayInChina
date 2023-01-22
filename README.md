@@ -16,6 +16,9 @@
 它战网的ID是：国服战网玩家#9527
 它账号对应的国服句柄，就是5-S2-1-11XXXXX6，这个可以通过文件夹， 进行查询（如下目录）：
 ```
+![image](https://github.com/jhhua/Sc2_Asia_PlayInChina/blob/main/image/213927240-59a1a0c4-ed5a-4ff3-8b4a-fa6074afc6c6.png?raw=true)
+
+
 C:\Users\电脑用户\Documents\StarCraft II\
  
 ![image](https://github.com/jhhua/Sc2_Asia_PlayInChina/blob/main/image/213926386-267b549d-060f-4b98-b2a6-33a7942b343c.png?raw=true)
