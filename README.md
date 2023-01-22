@@ -18,8 +18,12 @@ C:\Users\电脑用户\Documents\StarCraft II\
  
 ![image](https://github.com/jhhua/Sc2_Asia_PlayInChina/blob/main/image/213926386-267b549d-060f-4b98-b2a6-33a7942b343c.png?raw=true)
 ```
-点开他，会跳转到一个目录，这个目录下，有三个子目录，分别用于
+点开他，会跳转到一个目录，这个目录下，有三个子目录，分别用于：
+/Banks/：游戏大厅，各种小游戏的临时存档
+/Replays/：游戏录像，一部分是自动保存的
+/Saves/：这个也是游戏录像，其中一部分是你打单机战役的时候，自动保存的一些
 ```
+![图片](https://github.com/jhhua/Sc2_Asia_PlayInChina/blob/main/image/213926630-125ee7fe-4f30-49fd-9649-00942cd5788c.png)
 
 
 ```
