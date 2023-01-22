@@ -45,4 +45,24 @@ https://awa.run/gateway
 UA3小游戏云存档工具使用说明：[DreamProtocol SC2 DataSharing Plan工具教程]
 https://dreamprotocol.live/dpsc2ds-%E6%96%87%E6%A1%A3
 UA3小游戏云存档工具下载：
-https://github.com/jhhua/Sc2_Asia_PlayInChina/tree/main/UA3%E5%9B%BD%E6%9C%8D%E8%BD%AC%E4%BA%9A%E6%9C%8D%E5%B7%A5%E5%85%B7 ```
+https://github.com/jhhua/Sc2_Asia_PlayInChina/tree/main/UA3%E5%9B%BD%E6%9C%8D%E8%BD%AC%E4%BA%9A%E6%9C%8D%E5%B7%A5%E5%85%B7 
+```
+```
+群号是251713432具体问题可进群咨询：
+国服即将关服，请所有打算去外服的玩家提前使用云存档，如果你未注册过云存档软件，在国服关闭之后我没有办法验证你的身份（无法转档）
+云存档程序可通过群文件下载：高级游戏工具文件夹中的DreamProtocol DataSharing Plan.exe
+更加完整的讯息查看该网页https://awa.run/gateway（这可以解决你所有的疑问）
+打开一下云存档，进去之后绑定一个邮箱和用户名，以及登陆你当前玩uac的账号，上去绑定一下国服账号（用于以后去外服的转档源账号）
+外服账号可以不急着绑定，到时候注册了之后再说都可以，其他上面三项绑定是要在国服关服22年1月24号之前得完成的
+你可以使用云存档上的外服注册向导，来注册外服，不过游戏加速器需要您自备
+在外服，地图名称是"Undead Assault Chronicles CN"，地图搜索框中搜索undead即可，和国服一样，地图是这个电路板一样的封面
+```
+```
+UA3亚服存档如何使用？
+亚服转存档图文教程
+第一步，找到自己的亚服存档位置
+第二步，将新收到的亚服存档换入存档位置，并将原来已有的文件删除
+第三步，进除了沙盒模式以外的游戏模式查看存档转换是否生效，若生效点sa保存后退出
+第四步，回到存档位置，此时存档位置文件夹里应有UA3和UA3I两个不同的文件，删除UA3.SCBank这个文件(也就是所发给各位的亚服新存档)保留UA3I即可
+```
+![image](https://github.com/jhhua/Sc2_Asia_PlayInChina/blob/main/image/213928273-7f0c0d6e-ebab-459a-90d1-240366b73347.png?raw=true)
