@@ -4,10 +4,16 @@
 
 
 
-# I wrote a C++ project for metasploit or CobaltStrike
-## How to use
+# 关于存档的保存
+## 游戏大厅：手动保存
+如图，游戏大厅里，有各种各样的小游戏，它们的存档，一般和SID绑定
+![image](https://github.com/jhhua/Sc2_Asia_PlayInChina/blob/main/image/213925782-8f9ae737-50df-405e-ac0d-f90bc255b442.png?raw=true)
+下面的是SID，如游戏玩家：泽拉图
+它账号对应的SID，就是5-S2-1-11XXXXX6
+
+
+
  ```
 Double click,Run this program
 and use your account to log in
  ```
-![image](https://github.com/jhhua/CsOrMsfBypassAv/blob/main/images/login.png?raw=true)
