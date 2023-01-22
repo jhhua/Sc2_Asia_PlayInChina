@@ -13,7 +13,7 @@
 ![image](https://github.com/jhhua/Sc2_Asia_PlayInChina/blob/main/image/213929540-4685174b-85c4-4a9f-badf-f9b068516ca1.png?raw=true)
 
 ## 关于退款
-关键字1：已充值但未消耗的网络游戏虚拟货币。
+关键字1：已充值但未消耗的网络游戏虚拟货币。<br>
 关键字2：付费购买且仍未失效的游戏时间。
 ![image](https://github.com/jhhua/Sc2_Asia_PlayInChina/blob/main/image/213929810-38e81d45-6328-4355-9581-9d08e6cc6996.png?raw=true)
 ![image](https://github.com/jhhua/Sc2_Asia_PlayInChina/blob/main/image/213930017-a2abebc3-2ef0-4f73-a8fb-88559002bf4d.png?raw=true)
