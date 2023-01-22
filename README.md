@@ -41,5 +41,9 @@ C:\Users\Administrator\Documents\StarCraft II\Accounts\一串号码\你的句柄
 UA3提供了一系列专区，以及保存存档的工具，请于24号停服之前，进行保存
 C:\Users\Administrator\Documents\StarCraft II\Accounts\一串号码\你的句柄\Banks\5-S2-1-11103029 内的UA3I
 参考UA3官网链接：
-
+https://awa.run/gateway
+UA3小游戏云存档工具使用说明：[DreamProtocol SC2 DataSharing Plan工具教程]
+https://dreamprotocol.live/dpsc2ds-%E6%96%87%E6%A1%A3
+UA3小游戏云存档工具下载：
+https://github.com/jhhua/
  ```
