@@ -87,3 +87,24 @@ UA3亚服存档如何使用？
 第四步，回到存档位置，此时存档位置文件夹里应有UA3和UA3I两个不同的文件，删除UA3.SCBank这个文件(也就是所发给各位的亚服新存档)保留UA3I即可
 ```
 ![image](https://github.com/jhhua/Sc2_Asia_PlayInChina/blob/main/image/213928273-7f0c0d6e-ebab-459a-90d1-240366b73347.png?raw=true)
+
+
+
+# 亚洲区战网[非国服]
+```
+本群718971500，交流各种Sc2国际服游戏的知识
+24号国服停服
+游戏大厅，具体转档教程，参考：
+https://github.com/jhhua/Sc2_Asia_PlayInChina
+亚洲服官网：
+https://starcraft2.com/zh-tw/
+加速器推荐：来自群网友UM大佬
+我推荐奇游
+进去以后点击齿轮
+看你想进哪个服
+再点击注册
+输入生日和邮箱
+你可以直接用QQ邮箱扫码登录
+复制然后会有验证码
+然后就完事儿了
+```
