@@ -4,7 +4,7 @@
 
 
 
-#24号停服后的正式通告，含退款明细
+# 24号停服后的正式通告，含退款明细
 https://c.m.163.com/news/a/HRQBKH030552N3G0.html?from=wap_redirect&spss=adap_pc&referFrom=&blzcmp=app
 ![image](https://github.com/jhhua/Sc2_Asia_PlayInChina/blob/main/image/214283424-8c2b3f7e-991b-4714-a06a-479a9ee07616.png?raw=true)
 
